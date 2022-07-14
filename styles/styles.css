@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* main styles */
+
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #f5f7fa;
+}
+/* about styles */
+
+.about {
+    background-color: yellow;
+}
+
+/* progect styles */
+
+.projects {
+    background-color: chocolate;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: 60px;
+    margin-right: 90px;    
+}
+.project_title {
+  font-size: 45px;
+  color: blue; 
+}
+
+/* work styles */
+
+.work {
+background-color: cyan;
+padding-top: 100px;
+padding-bottom: 50px;
+padding-left: 20px;
+padding-right: 40px;
+
+
+}
+
+/* Education styles */
+
+.education {
+    background-color: seashell;
+}
+
+/* sidebar styles */
+
+.sidebar {
+background-color: black; 
+}
+<div><button type="button" class="button">inline</button><button type="button" class="button">block</button><button type="button" class="button">inline-block</button></div><div><button type="button" class'="button">HTML</button>
+ <button type="button" class="button">CSS</button><button type="button" class="button">JavaScript</button></div>
